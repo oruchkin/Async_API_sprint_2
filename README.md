@@ -26,7 +26,7 @@
  ```https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees```
 
 
-  <br/> <br/> <br/> <br/>
+  <br/> 
 
 ---
 ## Ниже шаблонный текст сгенерированный яндексом
