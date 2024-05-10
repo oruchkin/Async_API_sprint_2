@@ -1,9 +1,7 @@
 # Проектная работа 5 спринта
 
 ## Обзор
-Этот репозиторий содержит ```ССЫЛКУ``` на проект работы для 5-го спринта.
-
-[Cсылка](https://github.com/oruchkin/Async_API_sprint_1/tree/main/api/tests/functional):
+Этот репозиторий содержит [ССЫЛКУ](https://github.com/oruchkin/Async_API_sprint_1/tree/main/api/tests/functional) на проект работы для 5-го спринта.
 
 ```https://github.com/oruchkin/Async_API_sprint_1/tree/main/api/tests/functional```
 
@@ -12,19 +10,17 @@
  <br/>
 
 ## Задача спринта: <br/>
-Написать тесты для Api которое было написано в 4 спринте:
+Написать тесты для Api которое было написано в [4 спринте](https://github.com/oruchkin/Async_API_sprint_1):
 
  <br/>
 
 
 ## Канбан 5 спринта:
 
-Прогресс задач спринта ввелся на отдельной доске:
+Прогресс задач спринта ввелся на отдельной [доске](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees):
 
- [Канбан](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees):
+ [Ссылка на Канбан](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees)
  
- ```https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees```
-
 
   <br/> 
 
