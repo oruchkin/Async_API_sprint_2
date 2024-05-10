@@ -10,16 +10,15 @@
  <br/>
 
 ## Задача спринта: <br/>
-Написать тесты для Api которое было написано в [4 спринте](https://github.com/oruchkin/Async_API_sprint_1):
+Написать тесты для Api которое было написано в [4 спринте](https://github.com/oruchkin/Async_API_sprint_1)
 
  <br/>
 
 
 ## Канбан 5 спринта:
 
-Прогресс задач спринта ввелся на отдельной [доске](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees):
+Прогресс задач спринта ввелся на отдельной [канбан доске](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees)
 
- [Ссылка на Канбан](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees)
  
 
   <br/> 
