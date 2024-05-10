@@ -1,5 +1,36 @@
 # Проектная работа 5 спринта
 
+## Обзор
+Этот репозиторий содержит ```ССЫЛКУ``` на проект работы для 5-го спринта.
+
+[Cсылка](https://github.com/oruchkin/Async_API_sprint_1/tree/main/api/tests/functional):
+
+```https://github.com/oruchkin/Async_API_sprint_1/tree/main/api/tests/functional```
+
+Наша команда приняла решение ```сделать тесты в репозитории с приложением```, а не отдельно.
+
+ <br/>
+
+## Задача спринта: <br/>
+Написать тесты для Api которое было написано в 4 спринте:
+
+ <br/>
+
+
+## Канбан 5 спринта:
+
+Прогресс задач спринта ввелся на отдельной доске:
+
+ [Канбан](https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees):
+ 
+ ```https://github.com/users/oruchkin/projects/6/views/1?groupedBy%5BcolumnId%5D=Assignees```
+
+
+  <br/> <br/> <br/> <br/>
+
+---
+## Ниже шаблонный текст сгенерированный яндексом
+
 В папке **tasks** ваша команда найдёт задачи, которые необходимо выполнить во втором спринте модуля "Сервис Async API".
 
 Как и в прошлом спринте, мы оценили задачи в стори поинтах.
